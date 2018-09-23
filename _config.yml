@@ -2,8 +2,8 @@
 title: RJ
 SEOTitle: 任杰 Jie Ren
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+email: thurenjie@foxmail.com
+description: "桃李不言，下自成蹊"
 keyword: "RJ, 任杰, 12, Rainjay, Jie, iOS, Apple, iPhone"
 url: "www.rainjay.cn"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Be the best you can be!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
